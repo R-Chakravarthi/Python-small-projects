@@ -15,7 +15,7 @@ What the program does?
 
 ### Contributing
 
-Any kind of contributions to `t-karan / Python-small-projects/link-shortener` are welcome. While creating an issue(for this project) use `Link-Shortener` Label.
+Any kind of contributions to `Python-small-projects/link-shortener` are welcome. While creating an issue(for this project) use `Link-Shortener` Label.
 
 1. **Fork** the Project
 2. Commit your Changes
