@@ -10,6 +10,7 @@
 - Random Password Generator<br>
 - Birthday Reminder<br>
 - Link Shortener<br>
+- Voice Recorder<br>
 - Password Protech pdf<br>
 
 ### Contributing<br>
